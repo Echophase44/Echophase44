@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate full-stack developer from Florida</h3>
 
+<h4 align="left">I am a successful 7+ year IT Specialist turned developer after discovering a passion for coding.  After spending a good deal of time playing with languages like Python, R, SQL, and JavaScript, I started to spend most of my spare time building website apps. Always looking forward to building and learning more.</h4>
+
 - 🔭 I’m currently working on [a landing page](https://github.com/Echophase44/Pest_control_Landing_page)
 
 - 🌱 I’m currently learning **backend with nodejs**
