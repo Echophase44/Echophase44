@@ -3,15 +3,13 @@
 
 <h4 align="left">I am a successful 7+ year IT Specialist turned developer after discovering a passion for coding.  After spending a good deal of time playing with languages like Python, R, SQL, and JavaScript, I started to spend most of my spare time building website apps. Always looking forward to building and learning more.</h4>
 
-- 🔭 I’m currently working on [a landing page](https://github.com/Echophase44/Pest_control_Landing_page)
-
-- 🌱 I’m currently learning **backend with nodejs**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **nfitzgerald745@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@echophasejs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@echophasejs" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/nickolas fitzgerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nickolas fitzgerald" height="30" width="40" /></a>
 </p>
 
