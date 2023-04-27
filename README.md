@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate full-stack developer from Florida</h3>
 
-<h4 align="left">I am a successful 7+ year IT Specialist turned developer after discovering a passion for coding.  After spending a good deal of time playing with languages like Python, R, SQL, and JavaScript, I started to spend most of my spare time building website apps. Always looking forward to building and learning more.</h4>
+<h4 align="left">IT Specialist with 7+ years of experience transitioning to professional web development. I was searching for a creative outlet and after trying many things, I found that I really enjoyed building websites. Being able to immediately see progress, results, and the ease of testing new ideas, gave me a real sense of ownership and freedom.</h4>
 
 - 🌱 I’m currently learning **React**
 
