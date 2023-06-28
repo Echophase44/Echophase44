@@ -3,7 +3,7 @@
 
 <h4 align="left">IT Specialist with 7+ years of experience transitioning to professional web development. I was searching for a creative outlet and after trying many things, I found that I really enjoyed building websites. Being able to immediately see progress, results, and the ease of testing new ideas, gave me a real sense of ownership and freedom.</h4>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **nfitzgerald745@gmail.com**
 
